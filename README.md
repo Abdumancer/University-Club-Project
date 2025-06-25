@@ -30,5 +30,5 @@ Has the right to accept or reject these requests
 Can view statistics.
 
 
-Note: I used XAMPP control panel v3.2.4 Apache and MySQL modules for this project.
+Note: I used Laravel version 5.8, XAMPP control panel v3.2.4 Apache and MySQL modules for this project.
 
